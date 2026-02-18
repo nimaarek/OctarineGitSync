@@ -1,0 +1,1 @@
+- [ ] write a Ai BinDiff for finding vulnerability from app’s updates
